@@ -17,6 +17,9 @@ handlers:
 - url: /font-awesome
   static_dir: font-awesome
 
+- url: /images
+  static_dir: images
+
 - url: /.*
   script: omnia-uwindsor.application
 
